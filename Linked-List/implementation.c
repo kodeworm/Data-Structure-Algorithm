@@ -13,7 +13,7 @@ NODE create(){         //creation of linked list
     NODE newnode;
     int n;
     printf("\n\n__Enter -1 to exit__\n");
-    
+    //taking input from user
    
     do{
         printf("Enter element= ");
